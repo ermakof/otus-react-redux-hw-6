@@ -1,7 +1,7 @@
 module.exports = {
   projects: [
     {
-      displayName: 'functional-programming',
+      displayName: 'fp',
       clearMocks: true,
       resetMocks: true,
       testEnvironment: 'node',
